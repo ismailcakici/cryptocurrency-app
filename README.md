@@ -1,16 +1,30 @@
-# cryptocurrency
+# CryptoCurrency
 
-CryptoCurrency app
+- CryptoCurrency App.
 
-## Getting Started
+# Features
 
-This project is a starting point for a Flutter application.
+- Get all coins data.
+- Search any coin.
+- View 1d,7d,1m,3m and 1 year historical data.
 
-A few resources to get you started if this is your first Flutter project:
+# Tech
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- State Management : [BLoC](https://pub.dev/packages/flutter_bloc)
+- Charts : [FL Chart](https://pub.dev/packages/fl_chart)
+- API : [CoinGecko](https://www.coingecko.com/tr/api/documentation)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Preview
+
+<table>
+  <tr align = "center">
+    <td colspan="2"> Preview Video </td>
+  </tr>
+  <tr> 
+    <td colspan="2"><img src="screenshots/video.gif" width="250"></td>
+  </tr>
+</table> 
+
+
