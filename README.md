@@ -20,10 +20,27 @@
 
 <table>
   <tr align = "center">
-    <td colspan="2"> Preview Video </td>
+    <td colspan="5"> Preview Video </td>
   </tr>
   <tr> 
-    <td colspan="2"><img src="screenshots/video.gif" width="250"></td>
+    <td><img src="screenshots/video.gif" width="250"></td>
+  </tr>
+  <tr align = "center">
+   <td colspan="5"> Home Screen / Search Screen </td>
+  </tr>
+  <tr align = "center">
+  <td><img src="screenshots/home.png" width="250"></td>
+  <td><img src="screenshots/search.png" width="250"></td>
+  </tr>
+  <tr align = "center">
+   <td colspan = "5"> Detail Screen </td>
+  </tr>
+  <tr align = "center">
+  <td><img src="screenshots/1d.png" width="250"></td>
+  <td><img src="screenshots/7d.png" width="250"></td>
+  <td><img src="screenshots/1m.png" width="250"></td>
+  <td><img src="screenshots/3m.png" width="250"></td>
+  <td><img src="screenshots/1y.png" width="250"></td>
   </tr>
 </table> 
 
